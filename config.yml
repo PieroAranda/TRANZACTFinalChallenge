@@ -1,0 +1,26 @@
+EVERSHOP_URL: https://demo.evershop.io/
+
+CATEGORIES:
+  - kids
+  - women
+  - men
+
+BASE_URL: http://api.countrylayer.com/v2
+
+ACCESS_KEY: 7665e4f76448c68dcb6a3b1224107ecf
+
+COUNTRIES_CODE:
+  - US
+  - DE
+  - GB
+
+COUNTRIES:
+  - United States of America
+  - Germany
+  - United Kingdom of Great Britain and Northern Ireland
+
+
+UNEXISTING_CODE:
+  - QQ
+  - JJ
+  - LL
